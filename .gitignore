@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+jobs.db
+uploads/
+current_resume.txt
+.env
+frontend/
